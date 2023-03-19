@@ -1,2 +1,2 @@
-# -omputer_graphics
+# computer_graphics
 Homework
